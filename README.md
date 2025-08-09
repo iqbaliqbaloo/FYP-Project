@@ -1,7 +1,9 @@
 #My FYP Project
 #FYP-Project
-WellVia is a pioneering AI-powered web application engineered to revolutionize digital healthcare by providing an intelligent, virtual medical assistant. Harnessing cutting-edge natural language processing (NLP) and machine learning (ML) technologies, WellVia delivers precise symptom analysis, personalized health monitoring, timely medication reminders, and real-time location services for nearby healthcare providers.
+## About
 
-Designed to address critical challenges in healthcare accessibility, WellVia empowers users—especially those in remote or underserved regions to proactively manage their health with confidence. The AI-driven chatbot offers dynamic, context-aware consultations that simulate interactions with healthcare professionals, enhancing early diagnosis and fostering patient engagement.
+WellVia is an innovative AI-powered web application designed to function as a virtual medical assistant. It aims to make healthcare more accessible by providing users with intelligent features such as symptom analysis, medication reminders, health tracking, and doctor location services—all in one platform.
 
-Built on a scalable and modular MERN stack architecture, WellVia ensures seamless integration, high performance, and robust security standards, prioritizing user privacy and data protection. The intuitive and responsive user interface offers a smooth experience across devices, while future-ready capabilities include potential integration with wearable technologies and telehealth platforms—positioning WellVia as a trailblazer in the evolving landscape of digital health innovation.
+Using advanced natural language processing (NLP) and machine learning (ML) techniques, WellVia interacts with users through a chatbot to understand their health concerns and offer preliminary medical guidance. This reduces the dependency on physical visits for basic health issues and helps users manage their well-being proactively.
+
+Built with a modern web technology stack (React.js, Node.js, Express.js, MongoDB), WellVia offers a scalable, secure, and user-friendly experience. The project focuses on improving early diagnosis, increasing patient engagement, and empowering individuals with better health management tools, especially those with limited access to healthcare professionals.
